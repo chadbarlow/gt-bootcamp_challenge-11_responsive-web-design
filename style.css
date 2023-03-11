@@ -36,6 +36,21 @@ nav {
   text-transform: uppercase;
 }
 
+/* .home-item {
+background-color: #c6c6d8 !important;
+font-color: white !important;
+font-size: 22px !important;
+border-radius: 3px !important;
+border-width: 2px !important;
+border-color: #333333 !important;
+}
+*/
+
+.home-item {
+  border-width: 2px !important;
+  border-color: #333333 !important;
+}
+
 .navbar .nav-link,
 .navbar-nav,
 .navbar .navbar-nav>.nav-item.active>.nav-link {
