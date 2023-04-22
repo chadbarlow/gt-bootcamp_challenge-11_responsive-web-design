@@ -1,4 +1,4 @@
-<h1 align="left">WEB DESIGN<br><i>Topic: Weather vs. Latitude</i> </h1> 
+<h1 align="left">RESPONSIVE WEB DESIGN<br><i>Topic: Weather vs. Latitude</i> </h1> 
 
 <p>This project showcases a web-based dashboard for visualizing weather data based on latitude. The dashboard provides insights into the relationships between latitude and various weather phenomena, such as temperature, humidity, cloudiness, and wind speed.</p>
 
