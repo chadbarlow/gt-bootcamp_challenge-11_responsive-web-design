@@ -1,4 +1,9 @@
-# Web Visualization Dashboard (Weather vs. Latitude)
+<h1 align="center"> WEB VISUALIZATION DASHBOARD (WEATHER VS. LATITUDE) </h1> 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/8321756/233785536-8f5eda48-bf89-4703-a3f4-0a21d378077e.png">
+</p>
+
 This project showcases a web-based dashboard for visualizing weather data based on latitude. The dashboard provides insights into the relationships between latitude and various weather phenomena, such as temperature, humidity, cloudiness, and wind speed.
 
 ## Tools
