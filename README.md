@@ -27,6 +27,6 @@ The website is live at: https://web-design-challenge.github.io/live/
 
 ## Further Development
 * Integrate additional datasets to expand the scope and coverage of the visualizations
-* Implement interactive visualizations that allow users to manipulate variables and explore data on-the-fly
+* Implement interactive visualizations that allow users to manipulate variables and explore data in real-time
 * Incorporate real-time data sources to keep visualizations current and relevant
 * Enhance the dashboard with more advanced features, such as filtering and data download options
