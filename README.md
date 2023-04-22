@@ -1,10 +1,13 @@
-<h1 align="left"> WEB VISUALIZATION DASHBOARD <br>(WEATHER VS. LATITUDE) </h1> 
+<h1 align="left">WEB DESIGN<br><i>Topic: Weather vs. Latitude</i> </h1> 
 
 <p>This project showcases a web-based dashboard for visualizing weather data based on latitude. The dashboard provides insights into the relationships between latitude and various weather phenomena, such as temperature, humidity, cloudiness, and wind speed.</p>
 
+The website is live at: https://web-design-challenge.github.io/live/
+
+<h3 align="center"><a href="https://web-design-challenge.github.io/live/">
 <p align="center">
 <img src="https://user-images.githubusercontent.com/8321756/233785536-8f5eda48-bf89-4703-a3f4-0a21d378077e.png">
-</p>
+</p></a></h3>
 
 ## Tools
 * HTML and CSS
